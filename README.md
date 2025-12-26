@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hùng
 
-I'm a builder, strategist, and founder of **CDSL** — a high-quality, on-time software development company based in Southeast Asia. I specialize in helping startups and SMEs turn ideas into powerful, well-supported digital products.
+I'm a builder, strategist, and founder/developer of **CDSL** — a high-quality, on-time software development company based in Southeast Asia. I specialize in helping startups and SMEs turn ideas into powerful, well-supported digital products.
 
 ---
 
@@ -27,13 +27,13 @@ We build software that’s **expensive** (because it works), **on time**, **high
 
 📍 Based in Vietnam & Southeast Asia  
 🎯 Target: SMEs that need IT solutions
-🛠 Tech: Web | Mobile | AI | Automation | IoT
+🛠 Tech: Web | Mobile | Automation |
 
 ---
 
 ## 🐾 Fun Fact
 
-I’m raising 5 adorable kittens 😼  
+I’m raising 2 adorable kittens 😼  
 Also, I kind of see life like a Ghibli movie — mysterious, magical, and full of quiet strength.
 
 ---
